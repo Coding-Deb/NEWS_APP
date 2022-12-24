@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Frontend",
+    "slug": "Frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Deb2.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Deb2.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#262020"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Deb2.jpg",
+        "backgroundColor": "#262020"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Deb2.jpg"
+    }
+  }
+}
